@@ -2,6 +2,13 @@
 
 A data science project that explores NBA player statistics, visualizes trends, and predicts player performance using machine learning.
 
+
+## Data
+
+https://www.basketball-reference.com/leagues/NBA_2025_totals.html
+https://www.basketball-reference.com/leagues/NBA_2025_per_game.html
+
+
 ## Motivation
 
 I created this project to sharpen my end-to-end data analysis, visualization, and machine learning skills using real-world NBA data. The goal is to build an interactive dashboard for basketball fans and analysts.
@@ -12,6 +19,11 @@ I created this project to sharpen my end-to-end data analysis, visualization, an
 - Exploratory Data Analysis (EDA) and data visualization in Jupyter
 - Machine learning model to predict points per game
 - (Planned) Streamlit dashboard for interactive insights
+
+### Data Cleaning Notes
+
+- Removed columns such as "awards" and "additional player info" due to low statistical significance and lack of impact on predictive modeling.
+
 
 ## How to Run
 
